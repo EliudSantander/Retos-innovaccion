@@ -26,3 +26,6 @@ Es la parte logica de una computadora, utiliza el hardware para funcionar y tamb
 
 ### Nube:
 Es una herramienta que ofrece servicios en la web como almacenamiento de datos, programas, conexion con otras computadoras y acceso al internet de las cosas.
+
+### Kernel: 
+Un nucleo o kernel es un software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado.
