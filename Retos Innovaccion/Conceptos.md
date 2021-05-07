@@ -12,3 +12,6 @@ Es la parte de uns software con la que el usuario interactua, la parte grafica, 
 ### Back-End:
 Es la parte de un software que el usuario no ve, la parte de seguridad de los datos, la comunicacion con servidores u otras computadoras, el enlace con bases de datos.
 
+### Lenguaje de programacion:
+Un lenguaje de programacion es un lenguaje con el cual se le pueden dar instrucciones a una computadora, los lenguajes de programacion son lógicos. algunos ejemplos son Java, Javascript, Python y C#.
+
