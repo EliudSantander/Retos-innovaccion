@@ -20,3 +20,6 @@ Es la direccion de un dispositivo en la red.
 
 ### Arquitectura:
 Es el diseño y la estructura de como estan acomodados los componentes de una computadora, una descripcion funcional de los requerimentos del sistema.
+
+### Sistema operativo:
+Es la parte logica de una computadora, utiliza el hardware para funcionar y tambien le da instrucciones al hardware
