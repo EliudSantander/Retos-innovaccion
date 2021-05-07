@@ -17,3 +17,6 @@ Un lenguaje de programacion es un lenguaje con el cual se le pueden dar instrucc
 
 ### Direccion IP:
 Es la direccion de un dispositivo en la red.
+
+### Arquitectura:
+Es el diseño y la estructura de como estan acomodados los componentes de una computadora, una descripcion funcional de los requerimentos del sistema.
