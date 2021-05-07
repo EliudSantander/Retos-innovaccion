@@ -22,4 +22,7 @@ Es la direccion de un dispositivo en la red.
 Es el diseño y la estructura de como estan acomodados los componentes de una computadora, una descripcion funcional de los requerimentos del sistema.
 
 ### Sistema operativo:
-Es la parte logica de una computadora, utiliza el hardware para funcionar y tambien le da instrucciones al hardware
+Es la parte logica de una computadora, utiliza el hardware para funcionar y tambien le da instrucciones al hardware.
+
+### Nube:
+Es una herramienta que ofrece servicios en la web como almacenamiento de datos, programas, conexion con otras computadoras y acceso al internet de las cosas.
