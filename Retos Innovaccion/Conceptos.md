@@ -33,3 +33,5 @@ Un nucleo o kernel es un software que constituye una parte fundamental del siste
 ### IaaS:
 Infrastucture as a Service es la parte de la nube en la que el cliente usa la infraestructura directamente para instalar sus softwares y aplicaciones.
 
+### PaaS:
+Plataform as a Service es la parte de la nube donde el cliente puede usar herramientas de software o recursos de software para sus operaciones, cosas como uso de bases de datos, IA o storage. El servidor se encarga de brindar los servicios de infraestructura.
