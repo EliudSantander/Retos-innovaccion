@@ -34,4 +34,7 @@ Un nucleo o kernel es un software que constituye una parte fundamental del siste
 Infrastucture as a Service es la parte de la nube en la que el cliente usa la infraestructura directamente para instalar sus softwares y aplicaciones.
 
 ### PaaS:
-Plataform as a Service es la parte de la nube donde el cliente puede usar herramientas de software o recursos de software para sus operaciones, cosas como uso de bases de datos, IA o storage. El servidor se encarga de brindar los servicios de infraestructura.
+Plataform as a Service es la parte de la nube donde el cliente puede usar herramientas de software o recursos de software para sus operaciones, cosas como uso de bases de datos, IA o storage. El servidor se encarga de brindar los servicios de infraestructura y los recursos mencionados.
+
+### SaaS:
+Software as a Service es cuando una plataforma de nube otorga las aplicaciones para que el cliente haga uso de ellas, solo es necesario que el usuario introduca datos. Un ejemplo es microsoft teams, no debemos programar nada, solo usar el programa para hacer llamadas o enviar mensajes.
