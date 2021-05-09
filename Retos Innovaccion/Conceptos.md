@@ -29,3 +29,7 @@ Es una herramienta que ofrece servicios en la web como almacenamiento de datos, 
 
 ### Kernel: 
 Un nucleo o kernel es un software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado.
+
+### IaaS:
+Infrastucture as a Service es la parte de la nube en la que el cliente usa la infraestructura directamente para instalar sus softwares y aplicaciones.
+
